@@ -1,0 +1,8 @@
+	- RELACIONES TERNARIAS - 
+N:M:P >> Hay que sacar sus correspondientes tablas mas la de relacion, con las tres claves principales de N:M:P
+
+N:M:1 >> las tres tablas mas sus correspondientes tablas mas las claves de N:M como principales y la c1 como externa o secundaria
+
+N:1:1 >> las tres tablas mas la relacion con PK{N} y alguna de las dos. 4 tablas
+
+1:1:1 >> elegimos 2/3 PK al azar, y hacemos cuatro tablas (3xentidad  + 1xrelacion)
